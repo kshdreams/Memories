@@ -1,4 +1,5 @@
 {
 	"latestAppVersionCode" : 22,
-	"latestAppVersionName" : "0.9.12"
+	"latestAppVersionName" : "0.9.12",
+	"forceUpdateAppVersionName" : "1.0"
 }
