@@ -4,7 +4,6 @@
       "id" : "banner_1",
       "adIconUrl" : "https://raw.githubusercontent.com/kshdreams/Memories/master/images/icon/mipmap-xxhdpi/ic_launcher.png",
       "advertiserName" : "Memories, 잠금화면 사진공유 앱",
-      "adBodyText" : "SNS에 올린 사진을 잠금화면에 공유해보세요",
       "adSocialContext" : "SNS에 올린 사진을 잠금화면에 공유해보세요",
       "adCallToAction" : "설치하기",
       "adLink" : "market://details?id=com.sebiya.app.memories",
@@ -15,12 +14,12 @@
     {
       "id" : "ads_1",
       "adMediaUrl" : "",
-      "adIconUrl" : "",
-      "advertiserName" : "",
-      "adBodyText" : "",
-      "adSocialContext" : "",
-      "adCallToAction" : "",
-      "adLink" : "",
+      "adIconUrl" : "https://raw.githubusercontent.com/kshdreams/Memories/master/images/icon/mipmap-xxhdpi/ic_launcher.png",
+      "advertiserName" : "Memories - 잠금화면 사진공유 앱",
+      "adBodyText" : "SNS에 올린 사진을 잠금화면에 공유해보세요. 자세한 Tip은 blog를 확인하세요.",
+      "adSocialContext" : "https://memories-app.tistory.com/",
+      "adCallToAction" : "블로그 방문",
+      "adLink" : "https://memories-app.tistory.com/",
       "adType" : "native_ad"      
     }
   ]
