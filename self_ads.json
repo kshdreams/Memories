@@ -1,1 +1,27 @@
-
+{
+  "banners": [
+    {
+      "id" : "banner_1",
+      "adIconUrl" : "",
+      "advertiserName" : "",
+      "adBodyText" : "",
+      "adSocialContext" : "",
+      "adCallToAction" : "",
+      "adLink" : "market://details?id=com.sebiya.app.memories",
+      "adType" : "native_banner"
+    }
+  ],
+  "ads": [
+    {
+      "id" : "ads_1",
+      "adMediaUrl" : "",
+      "adIconUrl" : "",
+      "advertiserName" : "",
+      "adBodyText" : "",
+      "adSocialContext" : "",
+      "adCallToAction" : "",
+      "adLink" : "",
+      "adType" : "native_ad"      
+    }
+  ]
+}
