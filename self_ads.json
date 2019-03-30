@@ -4,9 +4,9 @@
       "id" : "banner_1",
       "adIconUrl" : "https://raw.githubusercontent.com/kshdreams/Memories/master/images/icon/mipmap-xxhdpi/ic_launcher.png",
       "advertiserName" : "Memories, 잠금화면 사진공유 앱",
-      "adSocialContext" : "SNS에 올린 사진을 잠금화면에 공유해보세요",
-      "adCallToAction" : "설치하기",
-      "adLink" : "market://details?id=com.sebiya.app.memories",
+      "adSocialContext" : "Blog에서 Tip을 확인하세요",
+      "adCallToAction" : "블로그 방문",
+      "adLink" : "https://memories-app.tistory.com/",
       "adType" : "native_banner"
     }
   ],
