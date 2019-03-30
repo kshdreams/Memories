@@ -13,7 +13,7 @@
   "ads": [
     {
       "id" : "ads_1",
-      "adMediaUrl" : "https://raw.githubusercontent.com/kshdreams/Memories/master/images/memories_blog.PNG",
+      "adMediaUrl" : "https://raw.githubusercontent.com/kshdreams/Memories/master/images/memories_desc_ll.png",
       "adIconUrl" : "https://raw.githubusercontent.com/kshdreams/Memories/master/images/icon/mipmap-xxhdpi/ic_launcher.png",
       "advertiserName" : "Memories - 잠금화면 사진공유 앱",
       "adBodyText" : "SNS에 올린 사진을 잠금화면에 공유해보세요. 자세한 Tip은 blog를 확인하세요.",
